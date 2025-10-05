@@ -187,7 +187,7 @@ class EncryptionInterface {
                     const rainbowTitle = gradient.rainbow.multiline(data);
                     console.log(rainbowTitle);
                     console.log(chalk.cyan('\nAdvanced Multi-Layer Encryption System'));
-                    console.log(chalk.dim('Made By Hack With Suraj\n' + 'Version 1.0.0'));
+                    console.log(chalk.dim('Made By Computer-Scientist-01\n' + 'Version 1.0.0'));
                 }
                 resolve();
             });
